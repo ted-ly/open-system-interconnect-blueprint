@@ -143,3 +143,11 @@
 <tr><td>10. It has 7 layers</td><td>10. It has 4 layers</td></tr>
 </tbody>
 </table>
+
+### Credits and resources
+
+* [Computer Network | Layers of OSI Model](http://www.geeksforgeeks.org/layers-osi-model/)
+* [The OSI Model's Seven Layers Defined and Functions Explained](https://support.microsoft.com/en-us/help/103884/the-osi-model-s-seven-layers-defined-and-functions-explained)
+* [Foundational Focus: OSI Model - Breaking Down the Seven Layers](http://images.globalknowledge.com/wwwimages/whitepaperpdf/WP_NW_OSI_Model_-_Breaking_Down_the_Seven_Layers.pdf)
+* [OSI reference model (Open Systems Interconnection)](http://searchnetworking.techtarget.com/definition/OSI)
+* [Comparison of OSI Reference Model and TCP/IP Reference Model](http://www.studytonight.com/computer-networks/comparison-osi-tcp-model)
