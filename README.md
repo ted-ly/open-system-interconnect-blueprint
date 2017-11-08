@@ -15,7 +15,7 @@
 ### 7 open systems interconnection layers
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwib-Z-L_q3XAhXkyoMKHbDUDVoQjRwIBw&url=http%3A%2F%2Fwww.onlinecmag.com%2Fseven-layer-osi-model%2F&psig=AOvVaw324XuQtyBF4iUFfDm9hSYV&ust=1510196319705629">
+  <img src="https://luiscachog.me/wp-content/uploads/2017/09/OSI-TCP-Model-v1.png">
 </p>
 
 * [Layer 7 - Application layer](#application-layer)
@@ -125,7 +125,7 @@
 ### OSI vs TCP/IP
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj-5PfTiq7XAhVDbiYKHd67B6sQjRwIBw&url=https%3A%2F%2Frotorwanker.wordpress.com%2F2010%2F10%2F22%2Fccna-v4-semestrul-1-modulul-2%2F&psig=AOvVaw2mw4XPBQXVFke3471VFEj8&ust=1510199752105720">
+  <img src="https://computergardens.files.wordpress.com/2015/09/osi-tcp-model.gif?w=400&h=311">
 </p>
 
 <table>
